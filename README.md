@@ -68,8 +68,6 @@ This project is designed to collect and manage the details of 10 students, inclu
 
 Here’s how it looked when i ran it:
 
-## Student Report Example
-
 ## Student 1
 
 **Enter name**: JOE  
