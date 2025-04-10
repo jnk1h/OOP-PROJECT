@@ -10,9 +10,9 @@ This project is designed to collect and manage the details of 10 students, inclu
 - **Displays Report:** Generates a report card with the student's details, subject scores, average score, grade, and a recommendation.
 
 ### Group Members:
-- **Joe Karogo** - ID: 167141
-- **Tressy Kongo** - ID: 168869
-- **Jesse Mbugua** - ID: 149540
+- **Joe Karogo** -167141
+- **Tressy Kongo** -168869
+- **Jesse Mbugua** -149540
 
 ---
 
