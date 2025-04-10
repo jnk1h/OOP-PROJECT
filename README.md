@@ -68,7 +68,7 @@ This project is designed to collect and manage the details of 10 students, inclu
 
 Here’s how it looked when i ran it:
 
-# Student Report Example
+## Student Report Example
 
 ## Student 1
 
@@ -102,7 +102,7 @@ Here’s how it looked when i ran it:
 
 ---
 
-Conclusion
+## Conclusion
 
 This project provides a simpleway to input, process, and display student data. It's a good example of how OOP concepts like classes, objects, and methods can be used to solve  and simplify real-world problems, such as generating student report cards.
 
